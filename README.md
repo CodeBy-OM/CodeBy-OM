@@ -1,4 +1,15 @@
+# 💫 Hi 👋, I'm Om Gupta
+**A passionate Web Developer || Frontend Dev || UI/UX**
 
+Email Me 👉 ✉️ **omgupta737670@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** AI-GEN predictive modeling and full-stack development projects
+- 🌱 **I’m currently learning:** Next.js, Machine Learning, DSA in C++
+- 👯 **I’m looking to collaborate on:** Innovative AI and Web Development projects that solve real-world problems
+- 📫 **How to reach me:** omgupta737670@gmail.com
+- 😄 **Pronouns:** Om
+- ⚡ **Fun fact:** Powered by coffee and code ☕💻
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/om-gupta-325340259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omgupta737670@gmail.com) 
 
