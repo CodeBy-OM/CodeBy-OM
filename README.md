@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Om Gupta
-**A passionate Full Stack Developer || Frontend Dev || UI/UX**
+**A passionate MERN Stack Developer || Frontend Dev || UI/UX**
 
 Email Me 👉 ✉️ **omgupta737670@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
