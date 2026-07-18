@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **omgupta737670@gmail.com** For Collaboration/Project or An
 - 🌱 **I’m currently learning:** Next.js, Machine Learning, DSA in C++
 - 👯 **I’m looking to collaborate on:** Innovative AI and Web Development projects that solve real-world problems
 - 📫 **How to reach me:** omgupta737670@gmail.com
-- 😄 **Pronouns:** Om
+- 😄 **Pronouns:** He
 - ⚡ **Fun fact:** Powered by coffee and code ☕💻
 
 ## 🌐 Socials:
